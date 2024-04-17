@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+.top{
+    background-color: #1F2937;
+}
+
+a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+li{
+    list-style-type: none;
+    font-size: 18px;
+    
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAFB;
+}
+
+.welcome{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAFB;
+}
+
+
+.intro-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.info-header{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
+.call-to-action{
+    background-color: #3882F6;
+}
+
+button{
+    background-color: #3882F6;
+    color: #F9FAFB;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #F9FAFB;
+}
